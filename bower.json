@@ -1,0 +1,22 @@
+{
+  "name": "zekegeek.com",
+  "homepage": "https://github.com/zekegeek/zekegeek.com",
+  "authors": [
+    "Catherine Agnes Roebuck <c.agnes.c@gmail.com>"
+  ],
+  "description": "zekegeek's website!",
+  "main": "",
+  "moduleType": [],
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
